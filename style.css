@@ -1,0 +1,40 @@
+* {
+    background: #000000;
+    padding: 5px;
+    margin: 20px;
+}
+
+.title {
+    color: rgb(132, 21, 21);
+    text-align: center;
+    display: block;
+    border: dotted 10px;
+    border-color: green;
+    font-size: 100px;
+}
+
+button {
+    text-align: center;
+    margin: 20px auto;
+    border: solid 5px;
+    color: rgb(132, 21, 21);
+    font-size: 50px;
+    display: block;
+}
+
+p {
+    color: rgb(132, 21, 21);
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto; /* sets up-down margin to 0 and left-right margins are equivalent but automatically determined */
+}
